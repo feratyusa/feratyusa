@@ -1,5 +1,15 @@
 ## Salutations! 👋
 
-📝 I'm currently learning about Laravel and React (you can't see it, it's a private repo), also other things too. Feel free to explore! (even though there's nothing to explore)
+📝 I make stuff, probably. Trying to make other things with Golang and NextJS.
+
+## Things
+
+- [Administration System of Learning Center (Laravel and React)](https://github.com/feratyusa/laci-public)
+- Employee Mobile Application (Flutter and Java Springboot)
+
+## Tiny Things
+
+- Certication Name Reader using PyTesseract (OCR Model)
+- Document Bot Uploader with NodeJS and C# using Selenium
 
 > *Knowing the mice might one day leave its hole and get the cheese. It fills you with motivation*
