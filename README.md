@@ -1,6 +1,6 @@
 ## Salutations! 👋
 
-📝 I make stuff, probably. Trying to make other things with Golang and NextJS.
+📝 I make stuff, probably.
 
 ## Things
 
